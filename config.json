@@ -1,0 +1,4 @@
+{
+    "dataset_path": "YOUR_DATASET_PATH",
+    "wandb_entity": "YOUR_WANDB_ENTITY"
+}
